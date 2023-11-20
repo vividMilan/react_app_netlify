@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st Post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem inventore nisi quaerat sint illum totam ipsum expedita fugiat mollitia tempore molestiae pariatur odit perferendis, nam officia a dolore esse omnis."
+    },
+    {
+      "id": 2,
+      "title": "2st Post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem inventore nisi quaerat sint illum totam ipsum expedita fugiat mollitia tempore molestiae pariatur odit perferendis, nam officia a dolore esse omnis."
+    },
+    {
+      "id": 3,
+      "title": "fdf",
+      "datetime": "November 18, 2023 6:11:27 PM",
+      "body": "dfdffdf"
+    }
+  ]
+}
